@@ -23,5 +23,5 @@
   <h3> 🤝🏻 &nbsp;Contact-Me </h3>
   
 <p align="center">
-<a href="https://discord.gg/WHjScd8vpb"><img src="https://img.shields.io/badge/-Discord%20Server-0077B5?style=flat-square&logo=Discord&logoColor=white"/></a>
+<a href="https://discord.gg/rwh"><img src="https://img.shields.io/badge/-Discord%20Server-0077B5?style=flat-square&logo=Discord&logoColor=white"/></a>
 <a href="mailto:kenzosoreze@icloud.com"><img src="https://img.shields.io/badge/-kenzosoreze@icloud.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
